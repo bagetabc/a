@@ -1,34 +1,34 @@
 <div align="center">
 
-# 📺 Video CMD Player 1.1
+# 📺 Video CMD Player
 **Смотри видео прямо в терминале!**
 
 ---
 
-### 🚀 Быстрый запуск
-Выберите команду для вашей операционной системы и вставьте её в терминал:
+### 🚀 Быстрый запуск (Git)
+Если у вас установлен Git, просто вставьте это в терминал:
 
-| ОС | Команда для запуска |
-| :--- | :--- |
-| **Windows** | `git clone https://github.com/bagetabc/a.git temp_a && cd temp_a && pip install -r requirements.txt && python VIDEO_CMD.py` |
-| **macOS** | `git clone https://github.com/bagetabc/a.git temp_a && cd temp_a && pip3 install -r requirements.txt && python3 VIDEO_CMD.py` |
-| **Linux** | `git clone https://github.com/bagetabc/a.git temp_a && cd temp_a && pip3 install -r requirements.txt && python3 VIDEO_CMD.py` |
-
+`git clone https://github.com/bagetabc/a.git && cd a && python VIDEO_CMD.py`
 
 ---
 
-### 🛠 Как это работает
-* **Автоматизация**: Скрипт сам подстраивается под размер вашего экрана.
-* **Легкость**: Все зависимости устанавливаются автоматически через `requirements.txt`.
-* **Универсальность**: Работает на базе OpenCV и yt-dlp.
-
-### 📋 Требования
-* **Python 3.x**
-* **Git**
-* Терминал с поддержкой ANSI-цветов.
+### 📦 Ручная установка (ZIP)
+1. **Скачайте архив**: Нажмите кнопку **[Code]** -> **[Download ZIP]**.
+2. **Распакуйте**: Извлеките содержимое архива в любую папку.
+3. **Установите зависимости**: Откройте терминал в папке и введите:
+   `pip install opencv-python yt-dlp pillow`
+4. **Запуск**: Запустите файл **`VIDEO_CMD.py`** через терминал командой `python VIDEO_CMD.py`.
 
 ---
-*Создано для тех, кто любит консоль больше, чем обычные плееры.*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Powered+by+BAGET;VIDEO+CMD;Команда+выше!)](https://git.io/typing-svg)
+### 🆕 Что нового в версии 2.0
+* **Управление скоростью**: Добавлен выбор коэффициента воспроизведения (1.0x, 1.5x, 2.0x и т.д.).
+* **Интерактивное меню**: Появилась команда `clear` для полной очистки временных файлов и кэша.
+* **Автоматизация**: Скрипт теперь самостоятельно проверяет и устанавливает нужные библиотеки.
+* **Стабильность**: Исправлены баги отображения и устранены визуальные артефакты.
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Powered+by+BAGET;VIDEO+CMD;Версия+2.0+доступна!)](https://git.io/typing-svg)
+
 </div>
