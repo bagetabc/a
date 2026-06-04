@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📺 Video CMD Player
+# 📺 Video CMD Player 1.1
 **Смотри видео прямо в терминале!**
 
 ---
@@ -13,6 +13,7 @@
 | **Windows** | `git clone https://github.com/bagetabc/a.git temp_a && cd temp_a && pip install -r requirements.txt && python VIDEO_CMD.py` |
 | **macOS** | `git clone https://github.com/bagetabc/a.git temp_a && cd temp_a && pip3 install -r requirements.txt && python3 VIDEO_CMD.py` |
 | **Linux** | `git clone https://github.com/bagetabc/a.git temp_a && cd temp_a && pip3 install -r requirements.txt && python3 VIDEO_CMD.py` |
+
 
 ---
 
