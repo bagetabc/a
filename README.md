@@ -29,5 +29,5 @@
 ---
 *Создано для тех, кто любит консоль больше, чем обычные плееры.*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Powered+By+BAGET)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Привет%2C+я+BAGET;Разработчик+консольных+утилит;Добро+пожаловать+в+мой+проект!)](https://git.io/typing-svg)
 </div>
