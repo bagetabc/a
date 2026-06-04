@@ -29,5 +29,5 @@
 ---
 *Создано для тех, кто любит консоль больше, чем обычные плееры.*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Powered+by+BAGET;VIDEO+CMD;Команда+выше!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FF000&center=true&vCenter=true&width=500&lines=Powered+by+BAGET;VIDEO+CMD;Команда+выше!)](https://git.io/typing-svg)
 </div>
