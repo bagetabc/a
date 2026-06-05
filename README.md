@@ -28,6 +28,11 @@
 * **Стабильность**: Исправлены баги отображения и устранены визуальные артефакты.
 
 ---
+### В списке есть файл betatest.py это:
+* **Бета тестирование версии 3.0**: там есть новое меню с GUI кнопками!
+* **ПОДДЕРЖИВАЕТ ТОЛЬКО РУЧНУЮ УСТАНОВКУ**
+
+---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Powered+by+BAGET;VIDEO+CMD;Версия+2.0+доступна!)](https://git.io/typing-svg)
 
